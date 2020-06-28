@@ -1,2 +1,2 @@
 # spamcall
-Spam call (panggilan) untuk mengerjai teman
+Spam call (panggilan) 
